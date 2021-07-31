@@ -1,1 +1,2 @@
-# homework-week-1
+# Horiseon Refactor
+## Refactoring Benefits
